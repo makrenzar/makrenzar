@@ -6,7 +6,7 @@
 
 <h4 align="left">Specializing in frontend development and eager to apply my skills in startups to create engaging websites</h4>
 
-<h4 align="left">Languages and Tools</h4>
+<h4 align="left">Programming Skills</h4>
 <p align="left">
 <div style="display: inline-block;">
   <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="css3" width="25" height="25"/>
