@@ -11,7 +11,7 @@
 ### Socials
 
 <div id="badges">
-  <a href="markzaragoza301@gmail.com"  target="blank">
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=new"  target="blank">
     <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail Badge"/>
   </a>
    <a href="https://www.facebook.com/makrenzar1/"  target="blank">
