@@ -12,11 +12,11 @@
 ### Socials
 
 <div id="badges">
-  <a href="www.linkedin.com/in/makrenzar">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" target="_blank"/>
+  <a href="https://www.linkedin.com/in/makrenzar/"  target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
-   <a href="https://www.facebook.com/makrenzar1/">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge" target="_blank"/>
+   <a href="https://www.facebook.com/makrenzar1/"  target="blank">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge" />
   </a>
 </div>
