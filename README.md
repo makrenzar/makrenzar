@@ -1,4 +1,4 @@
-### Hi! My name is Mark Lawrence Zaragoza 🙂
+### Hi there! My name is Mark Lawrence Zaragoza 🙂
 
 ### Front-End Developer 
 
@@ -6,15 +6,15 @@
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,figma,photoshop)](https://skillicons.dev)&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,figma)](https://skillicons.dev)&nbsp;
 
 ### Socials
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/makrenzar/"  target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="markzaragoza301@gmail.com"  target="blank">
+    <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail Badge"/>
   </a>
    <a href="https://www.facebook.com/makrenzar1/"  target="blank">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge" />
+    <img src="https://img.shields.io/badge/Facebook-white?style=for-the-badge&logo=facebook&logoColor=blue" alt="Facebook Badge" />
   </a>
 </div>
