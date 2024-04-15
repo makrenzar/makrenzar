@@ -8,7 +8,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,figma)](https://skillicons.dev)&nbsp;
 
-### Socials
+### Connect with me
 
 <div id="badges">
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWtDsVwVbNPqWRTnTfLBXbbkrLZFszhJkslqkTPRtmbHgdwkSzrBJJjbtpWZZrSLZsnmLlXDQ"  target="blank">
