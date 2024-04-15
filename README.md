@@ -6,7 +6,7 @@
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma)](https://skillicons.dev)&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,figma)](https://skillicons.dev)&nbsp;
 
 ### Connect with me
 
