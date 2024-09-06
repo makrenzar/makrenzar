@@ -2,7 +2,7 @@
 
 ### Front-End Developer 
 
-### Specializing in frontend development and eager to apply my skills in startups to create engaging websites
+### Specializing in front-end development and eager to apply my skills to create engaging and innovative websites.
 
 ### Skills
 
